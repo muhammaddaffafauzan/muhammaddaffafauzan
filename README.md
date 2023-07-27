@@ -49,23 +49,6 @@
 <a href="https://git-scm.com/" rel="nofollow"> 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   </a>
-  
- <!-- Google Firebase -->
-<a href="https://firebase.google.com/" rel="nofollow"> 
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Google Firebase" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  
- <!-- Netlify -->
-<a href="https://www.netlify.com/" rel="nofollow"> 
-<img src="https://www.netlify.com/v3/img/components/logomark.svg" alt="Google Firebase" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  
-<!-- Niagahoster -->
-<a href="https://www.niagahoster.co.id/" rel="nofollow"> 
-<img src="https://images.glints.com/unsafe/360x0/glints-dashboard.s3.amazonaws.com/company-logo/7e26d68838eb72772a3def223e59cd03.png" alt="Niagahoster" height="45" style="vertical-align:top; margin:4px">
-  </a>
-  
-
   <a href="https://www.vue.js.co.id/" rel="nofollow"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
