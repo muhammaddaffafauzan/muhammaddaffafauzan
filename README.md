@@ -49,10 +49,14 @@
 <a href="https://git-scm.com/" rel="nofollow"> 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   </a>
+  <!-- vue -->
   <a href="https://www.vue.js.co.id/" rel="nofollow"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
-
+<!-- express -->
+  <a href="https://expressjs.com/" rel="nofollow"> 
+<img src="https://inapp.com/wp-content/uploads/elementor/thumbs/express-js-01-1-q05uw85vt1jqloiy5k82sfy7tgvysgt1uqld8slsbc.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
+  </a>
  </p>
 
 ### Connect With Me 	:handshake:
