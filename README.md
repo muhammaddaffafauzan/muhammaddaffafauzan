@@ -55,11 +55,11 @@
   </a>
 <!-- express -->
   <a href="https://expressjs.com/" rel="nofollow"> 
-<img src="https://steppingstone.in/images/logos/express.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
+<img src="https://steppingstone.in/images/logos/express.png" alt="VueJs" width="50" style="vertical-align:top; margin:4px">
   </a>
   <!-- node.js -->
   <a href="https://nodejs.org/id" rel="nofollow"> 
-<img src=https://miro.medium.com/v2/resize:fit:800/1*dspCRVCpRgFRaUozxDpucA.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
  </p>
 
