@@ -17,12 +17,12 @@
 <p align="center">
 <!-- HTML  -->
 <a href="https://html.spec.whatwg.org/" rel="nofollow">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGRSRlEvWXkfmcclVVe3zytMg5LHE-3Heqf0P8F57tA&s" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 </a>
  
 <!--  CSS  -->
 <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoB-IRPRX9ZeilO25-EnYDf8Rjl0z27uefg&s" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </a>
 
 <!--  javascript  -->
@@ -32,7 +32,7 @@
   
 <!--  Bootstrap  -->
  <a href="https://getbootstrap.com/" rel="nofollow"> 
-<img src="https://camo.githubusercontent.com/e76db96833cc2ba21cac7145b4446a5673a4e70026e0b215ab48b21ad9532648/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62322f426f6f7473747261705f6c6f676f2e737667" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"> 
  </a>
   
 <!-- Google Font -->
@@ -56,6 +56,19 @@
   <!-- node.js -->
   <a href="https://nodejs.org/id" rel="nofollow"> 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
+  </a>
+ </p>
+  <!-- flutter -->
+  <a href="https://flutter.dev/" rel="nofollow"> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png?f=webp" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
+  </a>
+    <!-- golang -->
+  <a href="https://go.dev/" rel="nofollow"> 
+<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
+  </a>
+    <!-- mySQL -->
+  <a href="https://www.mysql.com/" rel="nofollow"> 
+<img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
  </p>
 
