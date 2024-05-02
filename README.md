@@ -37,9 +37,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"> 
   </a>
   
-  <!-- Google Font -->
+  <!-- Google cloud -->
   <a href="https://cloud.google.com/free/?utm_source=google&utm_medium=cpc&utm_campaign=japac-ID-all-id-dr-BKWS-all-super-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_664989825089-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+-GCP-General-core+brand-main-KWID_43700077139981279-kwd-6458750523&userloc_9119915-network_g&utm_term=KW_google+cloud&gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pUgGe3QD93MTvOfiCn5-M4X25KoyIM94REgCkdjTRVCISyRj_on8ORoCTyYQAvD_BwE&gclsrc=aw.ds&hl=id" rel="nofollow"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbKNei4TQZhCvnwAQbEPQqMRR0Yp7nFb8l6HUoJZLpCQ&s" alt="Google Font" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="Google Font" height="40" style="vertical-align:top; margin:4px">
   </a>
  
   <!-- VS Code -->
