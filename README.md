@@ -49,27 +49,32 @@
 <a href="https://git-scm.com/" rel="nofollow"> 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   </a>
+
   <!-- vue -->
   <a href="https://www.vue.js.co.id/" rel="nofollow"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
+
   <!-- node.js -->
   <a href="https://nodejs.org/id" rel="nofollow"> 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
- </p>
+
   <!-- flutter -->
   <a href="https://flutter.dev/" rel="nofollow"> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png?f=webp" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
+
     <!-- golang -->
   <a href="https://go.dev/" rel="nofollow"> 
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
+
     <!-- mySQL -->
   <a href="https://www.mysql.com/" rel="nofollow"> 
 <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
+  
  </p>
 
 ### Connect With Me 	:handshake:
