@@ -53,10 +53,6 @@
   <a href="https://www.vue.js.co.id/" rel="nofollow"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
   </a>
-<!-- express -->
-  <a href="https://expressjs.com/" rel="nofollow"> 
-<img src="https://steppingstone.in/images/logos/express.png" alt="VueJs" width="100" style="vertical-align:top; margin:4px">
-  </a>
   <!-- node.js -->
   <a href="https://nodejs.org/id" rel="nofollow"> 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="VueJs" height="45" style="vertical-align:top; margin:4px">
