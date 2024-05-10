@@ -7,7 +7,7 @@
 - 👨🏻‍💼 My name is <code>Muhammad Daffa Fauzan</code>
 - 🏠 Live in <code>Bandung, Indonesia</code>
 - 🧍🏻‍♂️ <code>18</code> years old
-- 💻 <code>Software Engineering</code> Student at <code>Assalaam Vocational High School</code>
+- 💻 <code>Software Engineering || Web Developer</code>
 - 🌟 Maybe, <code>JavaScript</code> is my favorite language 
 - 🌏 Languages
   - 🇮🇩 Indonesian
